@@ -66,7 +66,8 @@ print(prediction)
 - This project is intended for educational and demonstrative use only.  
 - Predictions are not to be used for betting or commercial decisions.
 
-📌 Author
+📌 Authors
+
 Shravan,
 
 Srikanth,
