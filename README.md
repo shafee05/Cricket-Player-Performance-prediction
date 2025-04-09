@@ -3,16 +3,27 @@ This project predicts the performance of cricket players (batsmen and bowlers) u
 📂 Project Structure
 
 ├── data/
+
 │   ├── batsman.csv                             # Batsman statistics dataset
+
 │   ├── bowler.csv                              # Bowler statistics dataset
+
 │   └── X_predict.csv                           # Sample input for making predictions
+
 ├── models/
+
 │   └── README.md                               # Info on training models
+
 ├── notebooks/
+
 │   └── code_playerrunspred.ipynb               # Model training and prediction notebook
+
 ├── presentations/
+
 │   └── Cricket-Player-Performance-1.pptx       # Project presentation
+
 └── README.md
+
 
 🧠 How It Works
 
@@ -56,8 +67,9 @@ print(prediction)
 - Predictions are not to be used for betting or commercial decisions.
 
 📌 Author
-Shravan
-Srikanth
-Vijayalakshmi 
-Mohammad Shafee ur Rahaman
+Shravan,
+Srikanth,
+Vijayalakshmi,
+
+Mohammad Shafee ur Rahaman --->
 LinkedIn: https://www.linkedin.com/in/mohammad-shafee05/
